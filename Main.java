@@ -127,7 +127,7 @@ public class Main {
                     }
                 }
 
-                        System.out.println("Army Cheif:- General Aziz Ahmed");
+                        System.out.println("Army Cheif:- ");
                         System.out.println("Present Commander :- Brigadier General Obaydul Haque");
                         System.out.println("Colonel Commandent:- General Karim Bhuya");
                         break;
